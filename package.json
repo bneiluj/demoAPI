@@ -6,9 +6,9 @@
   "description": "Example application using Dredd and CI",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:apiaryio/dredd-example.git"
+    "url": "git+ssh://git@github.com/bneiluj/demoAPI.git"
   },
-  "author": "Apiary Czech Republic, s.r.o. <support@apiary.io>",
+  "author": "Julien",
   "scripts": {
     "start": "node app.js",
     "test": "npm run test:api-blueprint && npm run test:swagger",
